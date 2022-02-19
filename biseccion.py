@@ -2,7 +2,7 @@
 import math
 import numpy as np
 def f_x(x):
-    res = 2-())
+    res = 2-(np.e**x)
     return res
 
 def abs(number):
